@@ -18,8 +18,8 @@
   "dependencies": {
     "axios": "^0.18.0",
     "lodash": "^4.17.11",
-    "vue": "2.6.6",
-    "vuex": "3.1.0",
+    "vue": "2.6.10",
+    "vuex": "3.1.1",
     "webextension-polyfill": "0.3.1"
   },
   "devDependencies": {
@@ -52,7 +52,7 @@
     "pretty-quick": "1.10.0",
     "sass-loader": "7.1.0",
     "vue-loader": "15.6.2",
-    "vue-template-compiler": "2.6.6",
+    "vue-template-compiler": "2.6.10",
     "web-ext-types": "2.3.0",
     "webpack": "4.29.4",
     "webpack-chrome-extension-reloader": "0.8.3",
