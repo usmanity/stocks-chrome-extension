@@ -16,8 +16,8 @@
     "watch:dev": "cross-env HMR=true npm run build:dev -- --watch"
   },
   "dependencies": {
-    "axios": "^0.18.0",
-    "lodash": "^4.17.11",
+    "axios": "0.18.1",
+    "lodash": "4.17.13",
     "vue": "2.6.10",
     "vuex": "3.1.1",
     "webextension-polyfill": "0.3.1"
