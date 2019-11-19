@@ -32,7 +32,7 @@
     "copy-webpack-plugin": "5.0.5",
     "cross-env": "5.2.1",
     "css-loader": "3.2.0",
-    "ejs": "2.7.3",
+    "ejs": "2.7.4",
     "eslint": "5.16.0",
     "eslint-config-prettier": "6.7.0",
     "eslint-config-standard": "14.1.0",
