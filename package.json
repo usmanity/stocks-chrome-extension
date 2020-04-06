@@ -31,7 +31,7 @@
     "babel-loader": "8.1.0",
     "copy-webpack-plugin": "5.1.1",
     "cross-env": "5.2.1",
-    "css-loader": "3.4.2",
+    "css-loader": "3.5.0",
     "ejs": "2.7.4",
     "eslint": "5.16.0",
     "eslint-config-prettier": "6.10.1",
