@@ -23,9 +23,9 @@
     "webextension-polyfill": "0.6.0"
   },
   "devDependencies": {
-    "@babel/core": "7.10.2",
-    "@babel/plugin-proposal-optional-chaining": "7.10.1",
-    "@babel/preset-env": "7.10.2",
+    "@babel/core": "7.10.3",
+    "@babel/plugin-proposal-optional-chaining": "7.10.3",
+    "@babel/preset-env": "7.10.3",
     "archiver": "3.1.1",
     "babel-eslint": "10.1.0",
     "babel-loader": "8.1.0",
